@@ -9,20 +9,4 @@ At the moment of executing the main binary (Which is obtained by executing the c
 [!alt text](https://i.ibb.co/KDtW3R9/index.png)
 
 
-If you write the number one, which means, Money Entry, you will enter money, so write the amount of money you want. After entering the money it will show how much money was entered and how much balance you have now.
-
-
-[!alt text](https://i.ibb.co/YZmcSZj/Bank-App-Image-1.png)
-
-
-[!alt text](https://i.ibb.co/zH3028V/screen2success.png)
-
-
-[!alt text](https://i.ibb.co/8Pj44m1/screen2err.png)
-
-
-[!alt text](https://i.ibb.co/DVtm1rM/screen3.png)
-
-
-[!alt text](https://i.ibb.co/rQtWdvc/Bank-App-created-in-C-Quite-simple-terminal-application.png)
 
